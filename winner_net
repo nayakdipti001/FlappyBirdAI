@@ -1,0 +1,8 @@
+digraph {
+	0 [label="In 0" shape=box]
+	1 [label="In 1" shape=box]
+	2 [label="In 2" shape=box]
+	0 [label="Out 0" shape=box]
+	-2 -> 0 [label=1.31]
+	-3 -> 0 [label=-3.63]
+}
